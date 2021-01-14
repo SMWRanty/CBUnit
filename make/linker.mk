@@ -1,0 +1,1 @@
+LINKER		= $(CPP_COMPILER)
